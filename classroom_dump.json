@@ -1,0 +1,701 @@
+[
+  {
+    "course": {
+      "id": "793046968773",
+      "name": "OE - QUANTUM MECHANICS",
+      "section": "OPEN ELECTIVE",
+      "ownerId": "103449711649406416512",
+      "creationTime": "2026-01-06T09:27:55.416Z",
+      "updateTime": "2026-01-06T09:27:55.416Z",
+      "courseState": "ACTIVE",
+      "alternateLink": "https://classroom.google.com/c/NzkzMDQ2OTY4Nzcz",
+      "teacherGroupEmail": "OE_QUANTUM_MECHANICS_OPEN_ELECTIVE_teachers_a4cc0a27@srmap.edu.in",
+      "courseGroupEmail": "OE_QUANTUM_MECHANICS_OPEN_ELECTIVE_a0f60d2e@srmap.edu.in",
+      "guardiansEnabled": false,
+      "gradebookSettings": {
+        "calculationType": "TOTAL_POINTS",
+        "displaySetting": "HIDE_OVERALL_GRADE"
+      }
+    },
+    "announcements": [
+      {
+        "courseId": "793046968773",
+        "id": "839409033433",
+        "text": "CLA 1 on next Tuesday (January 20, 2026).\nQuestion will be shared in the class. Exam will be based on Note 1 to Note 4.",
+        "state": "PUBLISHED",
+        "alternateLink": "https://classroom.google.com/c/NzkzMDQ2OTY4Nzcz/p/ODM5NDA5MDMzNDMz",
+        "creationTime": "2026-01-14T06:35:13.057Z",
+        "updateTime": "2026-01-14T06:38:15.621Z",
+        "creatorUserId": "106946631709840840750"
+      }
+    ],
+    "materials": [
+      {
+        "courseId": "793046968773",
+        "id": "824224140509",
+        "title": "CLASS NOTES",
+        "description": "Syllabus, notes and others",
+        "materials": [
+          {
+            "driveFile": {
+              "driveFile": {
+                "id": "1lrNe6w70EDUNhxJzY3zsfsR-MAnANHNd",
+                "title": "QMech_Syllabus_MarksDivision.pdf",
+                "alternateLink": "https://drive.google.com/file/d/1lrNe6w70EDUNhxJzY3zsfsR-MAnANHNd/view?usp=drive_web",
+                "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMd96Ka8XQnJSuw_BSjtN9-2LEAM3bJnDdnWg9YYlxEjE1GWFXaOGtNvtvNbAmHJZBe9NPBeCLJcVuirXUpQ9ThrD8uNiKMpOJLAXWRK_RPmmvysQ=s200"
+              },
+              "shareMode": "VIEW"
+            }
+          },
+          {
+            "driveFile": {
+              "driveFile": {
+                "id": "1KKP6mNwuBtPAilg9QqIUCsEj_C21OSbZ",
+                "title": "Note 1 - Quantum mechanics in modern information science and technology.pdf",
+                "alternateLink": "https://drive.google.com/file/d/1KKP6mNwuBtPAilg9QqIUCsEj_C21OSbZ/view?usp=drive_web",
+                "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMKx_RoxCe4URjIVoDLHWsRuz5UUd04JMw2_GiizfWYXIM6HJ89T8Y453O-NNJGusLIBk2LWFHymhlVQSkgwio_hUesBkU4XzWBC2fAOQDdGH7J1A=s200"
+              },
+              "shareMode": "VIEW"
+            }
+          },
+          {
+            "driveFile": {
+              "driveFile": {
+                "id": "1VKQeqClI-MvEff4VxBnYu-bHitMHbgUH",
+                "title": "Note 2 - The failure of classical theory and the birth of Plancks law.pdf",
+                "alternateLink": "https://drive.google.com/file/d/1VKQeqClI-MvEff4VxBnYu-bHitMHbgUH/view?usp=drive_web",
+                "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBN9s5ELYfzCoYQD4sIOPO99GY967lTyFyiNJpksclsL-jkAV5Q2fGMyuGh25vUEzikm6OW1d-HUYvMQg7ZEsm9BOaH3b6xukSig3rXQM_VTGP9Dbg=s200"
+              },
+              "shareMode": "VIEW"
+            }
+          },
+          {
+            "driveFile": {
+              "driveFile": {
+                "id": "1mVhVRLCdq13YGHdaQMFONMBnq_7tl5xV",
+                "title": "Note 3 - Photoelectric effect.pdf",
+                "alternateLink": "https://drive.google.com/file/d/1mVhVRLCdq13YGHdaQMFONMBnq_7tl5xV/view?usp=drive_web",
+                "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNTqfXO3IOtDbsiiH6_Z5Vf2nXVVuPjIoCVnbpPNRqjoj5YyqjfcZmd9ZAuv6QJhdS4AGiZhFRh0F9Ig7AvdY84h3Wr42Q0DYjXlVJLW5cdoYkLsw=s200"
+              },
+              "shareMode": "VIEW"
+            }
+          },
+          {
+            "driveFile": {
+              "driveFile": {
+                "id": "1x9JtTYgC_lmz0BT7HNaauY7I1uODiqar",
+                "title": "Note 4 - Compton effect and Davisson-Germer experiment.pdf",
+                "alternateLink": "https://drive.google.com/file/d/1x9JtTYgC_lmz0BT7HNaauY7I1uODiqar/view?usp=drive_web",
+                "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOYNRd0f9ACElDuLX2ed-XtMxhOekH0fsJGGAo6dGeZiyMrInlJiXTqca16cYUWb0LI3GJ45gsFG1venxC6Q9Fx9yKziB-hQCQDETX9EMlUI4nrMQ=s200"
+              },
+              "shareMode": "VIEW"
+            }
+          }
+        ],
+        "state": "PUBLISHED",
+        "alternateLink": "https://classroom.google.com/c/NzkzMDQ2OTY4Nzcz/m/ODI0MjI0MTQwNTA5/details",
+        "creationTime": "2026-01-08T05:47:11.802Z",
+        "updateTime": "2026-01-14T06:34:46.365Z",
+        "creatorUserId": "106946631709840840750"
+      }
+    ],
+    "coursework": []
+  },
+  {
+    "course": {
+      "id": "793045269184",
+      "name": "2024 - PROBABILITY AND STATISTICS - CSE 208",
+      "section": "Sem : IV :  CSE : I",
+      "ownerId": "103449711649406416512",
+      "creationTime": "2026-01-06T06:17:37.577Z",
+      "updateTime": "2026-01-06T06:17:37.577Z",
+      "courseState": "ACTIVE",
+      "alternateLink": "https://classroom.google.com/c/NzkzMDQ1MjY5MTg0",
+      "teacherGroupEmail": "2024_PROBABILITY_AND_STATISTICS_CSE_208_Sem_IV_CSE_I_teachers_f8ecc6f0@srmap.edu.in",
+      "courseGroupEmail": "2024_PROBABILITY_AND_STATISTICS_CSE_208_Sem_IV_CSE_I_9d9d57a5@srmap.edu.in",
+      "guardiansEnabled": false,
+      "calendarId": "c_classroomc6b6ad93cdc7@group.calendar.google.com",
+      "gradebookSettings": {
+        "calculationType": "TOTAL_POINTS",
+        "displaySetting": "HIDE_OVERALL_GRADE"
+      }
+    },
+    "announcements": [],
+    "materials": [],
+    "coursework": []
+  },
+  {
+    "course": {
+      "id": "838027661785",
+      "name": "2024 - DATABASE MANAGEMENT SYSTEMS - CSE 209",
+      "section": "Sem : IV :  CSE : I",
+      "ownerId": "103449711649406416512",
+      "creationTime": "2026-01-06T06:17:41.325Z",
+      "updateTime": "2026-01-06T06:17:41.325Z",
+      "courseState": "ACTIVE",
+      "alternateLink": "https://classroom.google.com/c/ODM4MDI3NjYxNzg1",
+      "teacherGroupEmail": "2024_DATABASE_MANAGEMENT_SYSTEMS_CSE_209_Sem_IV_CSE_I_teachers_0f32f735@srmap.edu.in",
+      "courseGroupEmail": "2024_DATABASE_MANAGEMENT_SYSTEMS_CSE_209_Sem_IV_CSE_I_762161de@srmap.edu.in",
+      "guardiansEnabled": false,
+      "calendarId": "c_classroom23669baa@group.calendar.google.com",
+      "gradebookSettings": {
+        "calculationType": "TOTAL_POINTS",
+        "displaySetting": "HIDE_OVERALL_GRADE"
+      }
+    },
+    "announcements": [],
+    "materials": [
+      {
+        "courseId": "838027661785",
+        "id": "838417520871",
+        "title": "Distribution of Marks",
+        "materials": [
+          {
+            "driveFile": {
+              "driveFile": {
+                "id": "1prX_kPzZsBhorlFAnnwJRVxLQseuNSEo",
+                "title": "CSE 209 B3 DOM.docx",
+                "alternateLink": "https://drive.google.com/file/d/1prX_kPzZsBhorlFAnnwJRVxLQseuNSEo/view?usp=drive_web",
+                "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMRHpVY8CEN6YUQCFAQ5qnWkr1N9gQLasXYqMklcLvYq_m0hS4bVKU8enyNC2ewIPmniRAV7Yi8fae0EU7ca9AdpwVu9EaPhj-skz-t4MZ2nvEL=s200"
+              },
+              "shareMode": "VIEW"
+            }
+          }
+        ],
+        "state": "PUBLISHED",
+        "alternateLink": "https://classroom.google.com/c/ODM4MDI3NjYxNzg1/m/ODM4NDE3NTIwODcx/details",
+        "creationTime": "2026-01-08T07:58:45.052Z",
+        "updateTime": "2026-01-08T07:59:38.056Z",
+        "creatorUserId": "116298763464324182613",
+        "topicId": "824227356837"
+      },
+      {
+        "courseId": "838027661785",
+        "id": "824227438778",
+        "title": "Syllabus",
+        "materials": [
+          {
+            "driveFile": {
+              "driveFile": {
+                "id": "1cMT2GST7RMHiId5R0kf96IkfYmoNMMy6",
+                "title": "CSE 209 Syllabus.docx",
+                "alternateLink": "https://drive.google.com/file/d/1cMT2GST7RMHiId5R0kf96IkfYmoNMMy6/view?usp=drive_web",
+                "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOK2oMWOdSPqG9eSa_paFqhF0T1nJEjmE5tagIOfb12D1nzC_XpXP4M661GeIg-G7snQoNaa394RAPGT7HRGTmKTegEmOGyOyjnSUcvT0AVQLhY=s200"
+              },
+              "shareMode": "VIEW"
+            }
+          }
+        ],
+        "state": "PUBLISHED",
+        "alternateLink": "https://classroom.google.com/c/ODM4MDI3NjYxNzg1/m/ODI0MjI3NDM4Nzc4/details",
+        "creationTime": "2026-01-08T07:57:51.666Z",
+        "updateTime": "2026-01-08T07:58:28.987Z",
+        "creatorUserId": "116298763464324182613",
+        "topicId": "824227356837"
+      }
+    ],
+    "coursework": [
+      {
+        "courseId": "838027661785",
+        "id": "838413242466",
+        "title": "Lab 1",
+        "description": "Install SQL server ,\nAfter installation Write down step by step installation process,\nMake a PDF\u00a0 by taking pictures of what you have written and submit",
+        "materials": [
+          {
+            "driveFile": {
+              "driveFile": {
+                "id": "10E8t69KI8YqeRlY7gC4IidMwhUYi0aFl",
+                "title": "MySQL installation steps.docx",
+                "alternateLink": "https://drive.google.com/file/d/10E8t69KI8YqeRlY7gC4IidMwhUYi0aFl/view?usp=drive_web",
+                "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNPpKcCIKuez0a-uCPLxR6M36gaYzGOCEgtVGs-IBtvTA1YEal6L-dsURwSkRoivNwJPm5DkDwMZe5ehv8fUEMUyxUjKKLMkeVvUsuRk4NRdXCRrA=s200"
+              },
+              "shareMode": "VIEW"
+            }
+          },
+          {
+            "driveFile": {
+              "driveFile": {
+                "id": "1TGO91gvUW4rMdde7ZqMbDCFeA3a1VX-a",
+                "title": "MySQL for For macOS.docx",
+                "alternateLink": "https://drive.google.com/file/d/1TGO91gvUW4rMdde7ZqMbDCFeA3a1VX-a/view?usp=drive_web",
+                "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPcpWXlUvsEEi39NYbKzOEF2XVymI2brtYe65HCP2AuN_t6PlAxexAdiQDHh3eb0v8uK-q1Pm5ffAJNVQxtlWi-YDypmEWKnT9uYuGE38IuZptqXw=s200"
+              },
+              "shareMode": "VIEW"
+            }
+          }
+        ],
+        "state": "PUBLISHED",
+        "alternateLink": "https://classroom.google.com/c/ODM4MDI3NjYxNzg1/a/ODM4NDEzMjQyNDY2/details",
+        "creationTime": "2026-01-08T07:37:14.770Z",
+        "updateTime": "2026-01-08T07:37:17.415Z",
+        "maxPoints": 100,
+        "workType": "ASSIGNMENT",
+        "submissionModificationMode": "MODIFIABLE_UNTIL_TURNED_IN",
+        "creatorUserId": "116298763464324182613",
+        "topicId": "824226662557"
+      }
+    ]
+  },
+  {
+    "course": {
+      "id": "791189548741",
+      "name": "2025 - QUANTUM COMPUTATION: BACKGROUND AND FORMULATION - PHY 266",
+      "section": "Open Elective",
+      "ownerId": "110347623814780648096",
+      "creationTime": "2025-08-06T03:01:38.793Z",
+      "updateTime": "2025-08-06T03:01:38.793Z",
+      "courseState": "ACTIVE",
+      "alternateLink": "https://classroom.google.com/c/NzkxMTg5NTQ4NzQx",
+      "teacherGroupEmail": "2025_QUANTUM_COMPUTATION_BACKGROUND_AND_FORMULATION_PHY_266_Open_Elective_teachers_ef69cc70@srmap.edu.in",
+      "courseGroupEmail": "2025_QUANTUM_COMPUTATION_BACKGROUND_AND_FORMULATION_PHY_266_Open_Elective_88d0366e@srmap.edu.in",
+      "guardiansEnabled": false,
+      "calendarId": "c_classroom11a7e1b5@group.calendar.google.com",
+      "gradebookSettings": {
+        "calculationType": "TOTAL_POINTS",
+        "displaySetting": "HIDE_OVERALL_GRADE"
+      }
+    },
+    "announcements": [
+      {
+        "courseId": "791189548741",
+        "id": "837169751639",
+        "text": "Dear All,\n\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 Relax.\u00a0\nQuestion pattern:\nThere will be 13 questions. Out of which, 10 questions you have to answer. Each carries 10 marks. A few questions will have sub-questions.\n\nImportant: (1) Prepare the practice set that I have shared before mid-semester.\n\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0(2) Prepare all the topics from the Unit 3 slides.\n\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0(3) Quantum Fourier Transformation of single-qubit, two-qubit states.\n\nCLA-3\u00a0 questions conducted in class:\nQ. You\nare a scientist in IBM at Amaravati. CM of Andhra Pradesh asked you to send\nclassical information using the power of quantum mechanics to another country.\nWrite the procedure to send two bits of classical information using a qubit.\n\nQ. An\nartist Malik wants to copy an unknown quantum image (made up of qubits).\nProve that it is impossible to copy the image.\n\nQ. You are a project scientist in a\nnational quantum lab. \u00a0The chief of the\nlab would like to send some information to Russia via quantum teleportation.\nCan you guide and tell him the procedure such that he will be able to\nsend the information successfully?\n\nQ. I would like to securely send some information using a\nquantum key. Provide me the procedure of generating a quantum Key using 8 polarized\nphotons.\n\n\u00a0\n\n\n",
+        "state": "PUBLISHED",
+        "alternateLink": "https://classroom.google.com/c/NzkxMTg5NTQ4NzQx/p/ODM3MTY5NzUxNjM5",
+        "creationTime": "2025-12-19T11:04:57.332Z",
+        "updateTime": "2025-12-19T11:12:44.503Z",
+        "creatorUserId": "111411667007826021261"
+      },
+      {
+        "courseId": "791189548741",
+        "id": "836549982763",
+        "text": "Dear Students,\nI received several emails and messages from you regarding my upcoming OE. I am sorry that I could not reply.\n\nNeither \u201cFoundations of Mathetical Physics\u201d nor \u201cQuantum Computation and Algorithms\u201d course offered.  I enquired my HoD but not got any positive response on this.\n\nSo, I suggest you to see any other OE. I am really sorry for this inconvenience.\n\nIn case, they offer \u201cQuantum Computation and Algorithm\u201d by evening today, please take.\n\n\nBut again, by waiting for  this, you should not loose another good OE. ",
+        "state": "PUBLISHED",
+        "alternateLink": "https://classroom.google.com/c/NzkxMTg5NTQ4NzQx/p/ODM2NTQ5OTgyNzYz",
+        "creationTime": "2025-12-16T05:58:45.562Z",
+        "updateTime": "2025-12-16T05:58:45.561Z",
+        "creatorUserId": "111411667007826021261"
+      },
+      {
+        "courseId": "791189548741",
+        "id": "821401594423",
+        "text": "Hi Everyone,\n\u00a0 \u00a0 \u00a0 \u00a0 \u00a0This announcement is for the coming even semester.\n1. I am really sorry that the course \"Quantum Computation and Algorithms\" will not be offered as an Open Elective. This course is only for Quantum Minor students.\u00a0\n2. My department has assigned me to teach the course \"Quantum Computation: Background and Formulation\" in the next semester too. So, if you found this course interesting and helpful, please suggest your friends to register.\n3. Also, I am offering another OE course, \"Foundations of Mathematical Physics,\" in the upcoming semester. The syllabus is easy, and it will not be difficult at all. So, if you are interested, please consider this course. I need a minimum of 5 students to run the course.\u00a0 \u00a0",
+        "state": "PUBLISHED",
+        "alternateLink": "https://classroom.google.com/c/NzkxMTg5NTQ4NzQx/p/ODIxNDAxNTk0NDIz",
+        "creationTime": "2025-12-09T09:15:22.610Z",
+        "updateTime": "2025-12-09T09:23:15.793Z",
+        "creatorUserId": "111411667007826021261"
+      },
+      {
+        "courseId": "791189548741",
+        "id": "792701148858",
+        "text": "The following students have not submitted assignment 2. Please submit by the end of the day.\nAP23110020149,\u00a0\nAP23110010090,\u00a0\nAP24110011556,\u00a0\nAP24110011317,\u00a0\nAP23110010210",
+        "state": "PUBLISHED",
+        "alternateLink": "https://classroom.google.com/c/NzkxMTg5NTQ4NzQx/p/NzkyNzAxMTQ4ODU4",
+        "creationTime": "2025-12-08T05:42:04.121Z",
+        "updateTime": "2025-12-08T05:42:34.878Z",
+        "creatorUserId": "111411667007826021261"
+      },
+      {
+        "courseId": "791189548741",
+        "id": "835213457574",
+        "text": "Whoever has not written today's class test, please email me by today. Tomorrow, I will schedule your examination.\u00a0\nThere will be no classes from tomorrow. I request you all to prepare for the semester. As I see, many students have not done well today's class-test.\n",
+        "state": "PUBLISHED",
+        "alternateLink": "https://classroom.google.com/c/NzkxMTg5NTQ4NzQx/p/ODM1MjEzNDU3NTc0",
+        "creationTime": "2025-12-08T05:37:47.880Z",
+        "updateTime": "2025-12-08T05:39:47.583Z",
+        "creatorUserId": "111411667007826021261"
+      },
+      {
+        "courseId": "791189548741",
+        "id": "835112826713",
+        "text": "Reminder that Monday we have a class test. Syllabus\n1. Quantum teleportation \n2. Quantum dense coding\n3. Quantum cryptography \n4. No cloning theorem ",
+        "state": "PUBLISHED",
+        "alternateLink": "https://classroom.google.com/c/NzkxMTg5NTQ4NzQx/p/ODM1MTEyODI2NzEz",
+        "creationTime": "2025-12-06T11:43:46.062Z",
+        "updateTime": "2025-12-06T11:43:46.061Z",
+        "creatorUserId": "111411667007826021261"
+      },
+      {
+        "courseId": "791189548741",
+        "id": "831842341829",
+        "text": "There will be a class test on Monday (7th December 2025). This contains marks.\nTopics to be covered:\n1. Quantum Teleportation\n2. Quantum Densecoding\n3. No cloning theorem\n4. Quantum Cryptography\n",
+        "state": "PUBLISHED",
+        "alternateLink": "https://classroom.google.com/c/NzkxMTg5NTQ4NzQx/p/ODMxODQyMzQxODI5",
+        "creationTime": "2025-12-01T04:34:04.704Z",
+        "updateTime": "2025-12-01T04:38:13.173Z",
+        "creatorUserId": "111411667007826021261"
+      },
+      {
+        "courseId": "791189548741",
+        "id": "831052553841",
+        "text": "Tomorrow I will teach quantum cryptography. An important topic. Please attend.\n\nOn Saturday, we have one class. But I am not taking that class. However, you can use that hour to complete the assignment and submit.",
+        "state": "PUBLISHED",
+        "alternateLink": "https://classroom.google.com/c/NzkxMTg5NTQ4NzQx/p/ODMxMDUyNTUzODQx",
+        "creationTime": "2025-11-25T06:45:18.461Z",
+        "updateTime": "2025-11-25T06:46:51.463Z",
+        "creatorUserId": "111411667007826021261"
+      },
+      {
+        "courseId": "791189548741",
+        "id": "823360750268",
+        "text": "Dear students \n    Take care of your health. Happy and safe journey.\n\nBest\nNilakantha ",
+        "state": "PUBLISHED",
+        "alternateLink": "https://classroom.google.com/c/NzkxMTg5NTQ4NzQx/p/ODIzMzYwNzUwMjY4",
+        "creationTime": "2025-11-07T05:01:40.568Z",
+        "updateTime": "2025-11-07T05:01:40.567Z",
+        "creatorUserId": "111411667007826021261"
+      },
+      {
+        "courseId": "791189548741",
+        "id": "822356044025",
+        "text": "Tomorrow we will do an activity on \"Quantum Teleportation\". I am attaching the \"quantum teleportation\" slide. Please go through it. This activity is important.\u00a0\nMust attend.",
+        "materials": [
+          {
+            "driveFile": {
+              "driveFile": {
+                "id": "142hC78o2NmJfVpPhWuf9jxojTfGLCjWn",
+                "title": "Teleportation.pptx",
+                "alternateLink": "https://drive.google.com/file/d/142hC78o2NmJfVpPhWuf9jxojTfGLCjWn/view?usp=drive_web",
+                "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPJsXemGCKGZypfk_OXiRmlXroBpM1LCygNZkDfpy95xE_0uTXIJ-wZRP71GVodzKG5rL2GGdnTTY0kM35R0w4abK0jcyzWvSKXAg1EyLVhx2HvQg=s200"
+              },
+              "shareMode": "VIEW"
+            }
+          }
+        ],
+        "state": "PUBLISHED",
+        "alternateLink": "https://classroom.google.com/c/NzkxMTg5NTQ4NzQx/p/ODIyMzU2MDQ0MDI1",
+        "creationTime": "2025-11-03T05:34:36.301Z",
+        "updateTime": "2025-11-03T05:55:17.453Z",
+        "creatorUserId": "111411667007826021261"
+      },
+      {
+        "courseId": "791189548741",
+        "id": "822358593513",
+        "text": "Dear All,\n\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 I am seeing that many students are absent in the last two classes where I taught quantum teleportation and quantum dense-coding. I must say that, for the end-term examination, around 60% questions will come from these units that I am teaching now. So, please attend the classes.\u00a0\u00a0",
+        "state": "PUBLISHED",
+        "alternateLink": "https://classroom.google.com/c/NzkxMTg5NTQ4NzQx/p/ODIyMzU4NTkzNTEz",
+        "creationTime": "2025-11-03T05:20:47.910Z",
+        "updateTime": "2025-11-03T05:23:48.352Z",
+        "creatorUserId": "111411667007826021261"
+      },
+      {
+        "courseId": "791189548741",
+        "id": "804436538338",
+        "text": "Please practice my practice set that I had shared.",
+        "state": "PUBLISHED",
+        "alternateLink": "https://classroom.google.com/c/NzkxMTg5NTQ4NzQx/p/ODA0NDM2NTM4MzM4",
+        "creationTime": "2025-10-15T16:41:54.538Z",
+        "updateTime": "2025-10-15T16:41:54.537Z",
+        "creatorUserId": "111411667007826021261"
+      },
+      {
+        "courseId": "791189548741",
+        "id": "804436538242",
+        "text": "Quantum gates also included in the midsem paper. I had told in the class, but I forgot now. Sorry for this inconvenience.",
+        "state": "PUBLISHED",
+        "alternateLink": "https://classroom.google.com/c/NzkxMTg5NTQ4NzQx/p/ODA0NDM2NTM4MjQy",
+        "creationTime": "2025-10-15T16:41:05.190Z",
+        "updateTime": "2025-10-15T16:41:05.190Z",
+        "creatorUserId": "111411667007826021261"
+      },
+      {
+        "courseId": "791189548741",
+        "id": "804436538151",
+        "text": "Sorry. Please read from complex numbers to entanglement calculation, and then quantum gates too. Please read quantum gates too. \nI told in tha class right. \n\nPlease practice the practice set I shared. ",
+        "state": "PUBLISHED",
+        "alternateLink": "https://classroom.google.com/c/NzkxMTg5NTQ4NzQx/p/ODA0NDM2NTM4MTUx",
+        "creationTime": "2025-10-15T16:40:07.439Z",
+        "updateTime": "2025-10-15T16:40:07.438Z",
+        "creatorUserId": "111411667007826021261"
+      },
+      {
+        "courseId": "791189548741",
+        "id": "804418267869",
+        "text": "Syllabus: Units 1 and 2 (starting from complex number to entanglement calculation)\n\nQuestion pattern: 7 questions, each carries 5 marks. You have to answer 5 questions.\n\nI suggest you to attempt all.",
+        "state": "PUBLISHED",
+        "alternateLink": "https://classroom.google.com/c/NzkxMTg5NTQ4NzQx/p/ODA0NDE4MjY3ODY5",
+        "creationTime": "2025-10-15T13:42:54.720Z",
+        "updateTime": "2025-10-15T13:42:54.719Z",
+        "creatorUserId": "111411667007826021261"
+      },
+      {
+        "courseId": "791189548741",
+        "id": "814888659990",
+        "text": "If any doubt, you can meet me in my cabin before the midsem exam. \nCabin 16, 9th floor of CV Raman ",
+        "state": "PUBLISHED",
+        "alternateLink": "https://classroom.google.com/c/NzkxMTg5NTQ4NzQx/p/ODE0ODg4NjU5OTkw",
+        "creationTime": "2025-09-23T03:34:12.132Z",
+        "updateTime": "2025-09-23T03:34:12.127Z",
+        "creatorUserId": "111411667007826021261"
+      },
+      {
+        "courseId": "791189548741",
+        "id": "806431108813",
+        "text": "The day after tomorrow, we will have a class test.\nSyllabus: Quantum Gates, Entanglement Calculation only from previous slides.\nTomorrow, no class. Utilize the time for self-study.\n\nOnce again, I am sharing the slides for Quantum Gate.\n\n\n",
+        "materials": [
+          {
+            "driveFile": {
+              "driveFile": {
+                "id": "1Lp9COUBo5gPmYl3rc9e4BxJgm7gk4gYg",
+                "title": "Unit 4.pptx",
+                "alternateLink": "https://drive.google.com/file/d/1Lp9COUBo5gPmYl3rc9e4BxJgm7gk4gYg/view?usp=drive_web",
+                "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMJeoqFTPnBIVcpqPXwSrSAWdMiIo382fWBv9OIbM9E-bit0UEuHThF1lV7ZUXGsQJX12WD_uKu_lR8U_w___TMvAF0Z7eKRRSTiic5IEqrRdrE2A=s200"
+              },
+              "shareMode": "VIEW"
+            }
+          }
+        ],
+        "state": "PUBLISHED",
+        "alternateLink": "https://classroom.google.com/c/NzkxMTg5NTQ4NzQx/p/ODA2NDMxMTA4ODEz",
+        "creationTime": "2025-09-15T05:50:11.644Z",
+        "updateTime": "2025-09-15T05:50:10.998Z",
+        "creatorUserId": "111411667007826021261"
+      },
+      {
+        "courseId": "791189548741",
+        "id": "802429960464",
+        "text": "Tomorrow I will do a class activity which consists of marks.\nSyllabus: Quantum Gates.\nPPT attached.\n\n",
+        "materials": [
+          {
+            "driveFile": {
+              "driveFile": {
+                "id": "190uFCGy6QYZbGr7_iJyu6d95L_CqXfNS",
+                "title": "Unit 4.pptx",
+                "alternateLink": "https://drive.google.com/file/d/190uFCGy6QYZbGr7_iJyu6d95L_CqXfNS/view?usp=drive_web",
+                "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMmaiRvdD9TxXj8CVL-DGHi7agxNSJ58EImmZhHPDWpgy_IaSdDszHg3VwOgi6jroHTkeUMFt1fgT6-YwjVkecevnrYt_LWotKMswbpvjNHwikyww=s200"
+              },
+              "shareMode": "VIEW"
+            }
+          }
+        ],
+        "state": "PUBLISHED",
+        "alternateLink": "https://classroom.google.com/c/NzkxMTg5NTQ4NzQx/p/ODAyNDI5OTYwNDY0",
+        "creationTime": "2025-09-08T06:29:27.524Z",
+        "updateTime": "2025-09-08T06:29:26.948Z",
+        "creatorUserId": "111411667007826021261"
+      }
+    ],
+    "materials": [
+      {
+        "courseId": "791189548741",
+        "id": "834912776627",
+        "title": "Slides of all the units",
+        "materials": [
+          {
+            "driveFile": {
+              "driveFile": {
+                "id": "1T0VH4XXT9Y3Y5H2Y54REUdlMZnSlszIz",
+                "title": "Unit 1 and 2.pptx",
+                "alternateLink": "https://drive.google.com/file/d/1T0VH4XXT9Y3Y5H2Y54REUdlMZnSlszIz/view?usp=drive_web",
+                "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMOk4sLq3FlHosMps6c9j32q5vyHheYTd3M0RufEfZBUDeJVpmeSwcbV4Pn-Awz3Epx1pUsinRVrzUJwnDP1zXzyE8fsVuscfpuT6Nu3ITJ8Tst8Q=s200"
+              },
+              "shareMode": "VIEW"
+            }
+          },
+          {
+            "driveFile": {
+              "driveFile": {
+                "id": "1E1Ycpm4SU5bL3L1zDNOvRNVRWybSPw_s",
+                "title": "Unit 3.pptx",
+                "alternateLink": "https://drive.google.com/file/d/1E1Ycpm4SU5bL3L1zDNOvRNVRWybSPw_s/view?usp=drive_web",
+                "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBO1nIblRxmrddzg5s8dFbOp1jigzaG8Hlfefs-xjZUAVBijt_A87odsrKbiRNKusb-6QRCXwhW2ADkwwB64v3kWjgH28_As6zY6Fgkby40BdXFHow=s200"
+              },
+              "shareMode": "VIEW"
+            }
+          },
+          {
+            "driveFile": {
+              "driveFile": {
+                "id": "1Wi0oVVkfEZ-Dr78jj19NHj-d3kK0s5Lj",
+                "title": "Unit 4.pptx",
+                "alternateLink": "https://drive.google.com/file/d/1Wi0oVVkfEZ-Dr78jj19NHj-d3kK0s5Lj/view?usp=drive_web",
+                "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBN3kPk0NHWgConnBnEFixSlMsNWH2O1yE0P9QZTduvJ1Ai1q9ay8W2bz92lfcds172OfstLE-Kq8Fe1vNBUBN2kB2qf2zZzSuaDzYzv53pVDW0ebw=s200"
+              },
+              "shareMode": "VIEW"
+            }
+          },
+          {
+            "driveFile": {
+              "driveFile": {
+                "id": "1wvky3G99DlldcNupdmIWnT73y8XHij9R",
+                "title": "Unit 5.pptx",
+                "alternateLink": "https://drive.google.com/file/d/1wvky3G99DlldcNupdmIWnT73y8XHij9R/view?usp=drive_web",
+                "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOBaGmRLxlQOesEBWp-niPCm-HVMHFJzeJT_ssD5zbhPW35s0JMzD8QmOZl7fiimB2fWWaJTYM2wJlApBXjMBjSHCl22Fqi-p5TeJqa1Aag2yDeMw=s200"
+              },
+              "shareMode": "VIEW"
+            }
+          }
+        ],
+        "state": "PUBLISHED",
+        "alternateLink": "https://classroom.google.com/c/NzkxMTg5NTQ4NzQx/m/ODM0OTEyNzc2NjI3/details",
+        "creationTime": "2025-12-05T07:43:38.211Z",
+        "updateTime": "2025-12-05T07:44:04.587Z",
+        "creatorUserId": "111411667007826021261"
+      },
+      {
+        "courseId": "791189548741",
+        "id": "831840581164",
+        "title": "Slides of Unit 3",
+        "materials": [
+          {
+            "driveFile": {
+              "driveFile": {
+                "id": "1tusQaYq3FT0AaXWCiUzjn1wwTJWjeGmi",
+                "title": "Unit 3.pptx",
+                "alternateLink": "https://drive.google.com/file/d/1tusQaYq3FT0AaXWCiUzjn1wwTJWjeGmi/view?usp=drive_web",
+                "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPy9XqXiggs1VqoPPiHyVAhmoBBLmtbIQ9o-6yz5sJIekkXp9CO4z8PluzSgUhRSsZVtzCKLIVp-w7va8XX0D1Gzp2g5aMT-uzlWo_4W7JyiF10RA=s200"
+              },
+              "shareMode": "VIEW"
+            }
+          }
+        ],
+        "state": "PUBLISHED",
+        "alternateLink": "https://classroom.google.com/c/NzkxMTg5NTQ4NzQx/m/ODMxODQwNTgxMTY0/details",
+        "creationTime": "2025-12-01T04:33:02.819Z",
+        "updateTime": "2025-12-01T04:33:46.782Z",
+        "creatorUserId": "111411667007826021261"
+      },
+      {
+        "courseId": "791189548741",
+        "id": "803299357193",
+        "title": "Practice Material",
+        "description": "Please find the practice material for the mid-semester. (If you want, you may take a printout and bring it to the class.)\nTomorrow we will meet to discuss mid-exam preparation.\nMonday and Tuesday, I will do the tutorials that are necessary for your mid-exam preparation.\n\n\n",
+        "materials": [
+          {
+            "driveFile": {
+              "driveFile": {
+                "id": "1tcVzpZ3K6tYeJOAUxhRKikYUhJ7vvvm0",
+                "title": "QC_PracticeSet.pdf",
+                "alternateLink": "https://drive.google.com/file/d/1tcVzpZ3K6tYeJOAUxhRKikYUhJ7vvvm0/view?usp=drive_web",
+                "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBM1Iwm_6QaVUe0vSlNXxU-i_HmyDO9ILYQPRz_fLauyv-OH-v7F64I7sJteowmti0HmOYHvgbqXGu19vt_69vdDOEXxOXU7gpZ428UYl7SsCawe_g=s200"
+              },
+              "shareMode": "VIEW"
+            }
+          }
+        ],
+        "state": "PUBLISHED",
+        "alternateLink": "https://classroom.google.com/c/NzkxMTg5NTQ4NzQx/m/ODAzMjk5MzU3MTkz/details",
+        "creationTime": "2025-09-19T10:23:14.599Z",
+        "updateTime": "2025-09-19T10:24:26.527Z",
+        "creatorUserId": "111411667007826021261"
+      },
+      {
+        "courseId": "791189548741",
+        "id": "795240313320",
+        "title": "Unit 1 and 2 slides",
+        "description": "Dear All,\n\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 Please find the slides for Unit 1 and Unit 2. Please go through it up to the inner product.\nIf any simple doubts also, feel free to ask me.\nTomorrow I will conduct a group problem-solving activity (for 10 min) that contains marks.",
+        "materials": [
+          {
+            "driveFile": {
+              "driveFile": {
+                "id": "1ETeUCub7ubqxbSc22nuR1WvMYrM8uYIa",
+                "title": "Unit 1 and 2.pptx",
+                "alternateLink": "https://drive.google.com/file/d/1ETeUCub7ubqxbSc22nuR1WvMYrM8uYIa/view?usp=drive_web",
+                "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOdEhmBF4iJig89HeWDzT6HRfBWAq_pP_GugAYDQx1di8a7Z8ILOAtaG_G_Sh-DAxc-knUNaNZFmRUByJzAls9afXXA4UR-NhTaRJC6YndVcZv9Gg=s200"
+              },
+              "shareMode": "VIEW"
+            }
+          }
+        ],
+        "state": "PUBLISHED",
+        "alternateLink": "https://classroom.google.com/c/NzkxMTg5NTQ4NzQx/m/Nzk1MjQwMzEzMzIw/details",
+        "creationTime": "2025-08-12T05:00:59.514Z",
+        "updateTime": "2025-08-12T05:04:51.315Z",
+        "creatorUserId": "111411667007826021261"
+      }
+    ],
+    "coursework": [
+      {
+        "courseId": "791189548741",
+        "id": "831044491341",
+        "title": "Assignment 2 for CLA 2",
+        "description": "Please submit before December 1st, 10:00 AM.",
+        "materials": [
+          {
+            "driveFile": {
+              "driveFile": {
+                "id": "1P-IVcW0okkSerwS5I3d7YXP19Lk2TXxX",
+                "title": "Assignment 2.pdf",
+                "alternateLink": "https://drive.google.com/file/d/1P-IVcW0okkSerwS5I3d7YXP19Lk2TXxX/view?usp=drive_web",
+                "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMFPabhLO-aos0tuefCwI4sztZfNfuuNx2mrqfuz7oAmqnAZjJ1S0afjFbXxQbJTHTyBb537oBS-9gIq3mEK2Veki0v83INUTDX-juZAVJiQFg1=s200"
+              },
+              "shareMode": "VIEW"
+            }
+          }
+        ],
+        "state": "PUBLISHED",
+        "alternateLink": "https://classroom.google.com/c/NzkxMTg5NTQ4NzQx/a/ODMxMDQ0NDkxMzQx/details",
+        "creationTime": "2025-11-25T06:39:18.526Z",
+        "updateTime": "2025-11-25T06:44:48.730Z",
+        "maxPoints": 100,
+        "workType": "ASSIGNMENT",
+        "submissionModificationMode": "MODIFIABLE_UNTIL_TURNED_IN",
+        "creatorUserId": "111411667007826021261"
+      },
+      {
+        "courseId": "791189548741",
+        "id": "809030273295",
+        "title": "Practice material",
+        "description": "Dear All,\n\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0Please find the practice material (Here, I have removed the problems that we have not studied yet). Please ignore the previous one that I shared earlier.\u00a0",
+        "materials": [
+          {
+            "driveFile": {
+              "driveFile": {
+                "id": "15swjhDJqchl1hFMbUyf7iDqkFZtOJKi2",
+                "title": "QCA_PracticeSet.pdf",
+                "alternateLink": "https://drive.google.com/file/d/15swjhDJqchl1hFMbUyf7iDqkFZtOJKi2/view?usp=drive_web",
+                "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNCPcE89NdM97AThnc_bsCH0XKCiRntkAwHn7B0l7i9l_hqsvyFo3J1QZUREMTcC0yVge8YZ2DbLhjYvy53EG_UFxGFa00zJt3zfGKoR8o5MSrT=s200"
+              },
+              "shareMode": "VIEW"
+            }
+          }
+        ],
+        "state": "PUBLISHED",
+        "alternateLink": "https://classroom.google.com/c/NzkxMTg5NTQ4NzQx/a/ODA5MDMwMjczMjk1/details",
+        "creationTime": "2025-09-25T04:58:05.563Z",
+        "updateTime": "2025-09-25T05:01:27.457Z",
+        "maxPoints": 100,
+        "workType": "ASSIGNMENT",
+        "submissionModificationMode": "MODIFIABLE_UNTIL_TURNED_IN",
+        "creatorUserId": "111411667007826021261"
+      },
+      {
+        "courseId": "791189548741",
+        "id": "799097854832",
+        "title": "Assignment 1",
+        "description": "Please find the assignment attached and submit it online on or before September 8, 2025.\u00a0\nThere will be no classes next week. See you all on 1st September.\u00a0",
+        "materials": [
+          {
+            "driveFile": {
+              "driveFile": {
+                "id": "1RfPR3mazPrNHG9n4RJVxBmsw8Rz2vyTz",
+                "title": "Assignment 1.pdf",
+                "alternateLink": "https://drive.google.com/file/d/1RfPR3mazPrNHG9n4RJVxBmsw8Rz2vyTz/view?usp=drive_web",
+                "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNxN7HZxmt2O6-f5sV_7bwXvXl4rQkqw1jhL2d8llUNltmlr-61Y9sCQM-T_Z5zziJF3ExJY-FBrzV4K5H9gB0nWAYMRWPBmtB9YLGc8cjXVGo8=s200"
+              },
+              "shareMode": "VIEW"
+            }
+          }
+        ],
+        "state": "PUBLISHED",
+        "alternateLink": "https://classroom.google.com/c/NzkxMTg5NTQ4NzQx/a/Nzk5MDk3ODU0ODMy/details",
+        "creationTime": "2025-08-20T04:48:23.260Z",
+        "updateTime": "2025-08-20T04:52:26.269Z",
+        "dueDate": {
+          "year": 2025,
+          "month": 9,
+          "day": 8
+        },
+        "dueTime": {
+          "hours": 18,
+          "minutes": 29
+        },
+        "maxPoints": 15,
+        "workType": "ASSIGNMENT",
+        "submissionModificationMode": "MODIFIABLE_UNTIL_TURNED_IN",
+        "creatorUserId": "111411667007826021261"
+      }
+    ]
+  }
+]
