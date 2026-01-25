@@ -17,8 +17,10 @@ from pptx import Presentation
 
 DB_CONFIG = {
     "dbname": "studybuddy",
-    "user": "nquzet",
-    "host": "/var/run/postgresql",
+    "user": "postgres",
+    "host": "localhost",
+    "password": "psql@123",
+    "port": "5432"
 }
 
 SCOPES = ["https://www.googleapis.com/auth/drive.readonly"]
