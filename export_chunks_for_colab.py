@@ -9,8 +9,10 @@ OUTPUT_PATH ="exported_chunks.json"
 
 DB_CONFIG = {
     "dbname": "studybuddy",
-    "user": "nquzet",
-    "host": "/var/run/postgresql",
+    "user": "postgres",
+    "host": "localhost",
+    "password": "psql@123",
+    "port": "5432"
 }
 
 conn = psycopg2.connect(**DB_CONFIG)
