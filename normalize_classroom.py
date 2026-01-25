@@ -11,8 +11,10 @@ JSON_PATH = "classroom_dump.json"
 
 DB_CONFIG = {
     "dbname": "studybuddy",
-    "user": "nquzet",
-    "host": "/var/run/postgresql",
+    "user": "postgres",
+    "host": "localhost",
+    "password": "psql@123",
+    "port": "5432"
 }
 
 # =========================
