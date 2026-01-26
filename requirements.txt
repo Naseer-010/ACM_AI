@@ -13,3 +13,7 @@ transformers
 torch
 accelerate
 sentencepiece
+hf_xet # or huggingface_hub[hf_xet]
+sentence-transformers
+"unstructured[pdf, docx, pptx]"
+scikit-learn
