@@ -115,10 +115,6 @@ def contains_exam_keywords(text):
     text = safe_lower(text)
     return any(k in text for k in keywords)
 
-# =========================
-# LOAD JSON
-# =========================
-
 with open(JSON_PATH, "r") as f:
     classroom_data = json.load(f)
 
@@ -267,4 +263,4 @@ conn.commit()
 cursor.close()
 conn.close()
 
-print("Normalization completed successfully ✅")
+print("Normalization completed successfully")
