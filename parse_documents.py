@@ -1,15 +1,16 @@
 import io
+import os
+import tempfile
 import psycopg2
-from datetime import datetime
 
 from googleapiclient.discovery import build
 from googleapiclient.http import MediaIoBaseDownload
 from google.oauth2.credentials import Credentials
 from google_auth import get_credentials
 
-import pdfplumber
-import docx
-from pptx import Presentation
+from unstructured.partition.pdf import partition_pdf
+from unstructured.partition.docx import partition_docx
+from unstructured.partition.pptx import partition_pptx
 
 # =========================
 # CONFIG
@@ -24,7 +25,6 @@ DB_CONFIG = {
 }
 
 SCOPES = ["https://www.googleapis.com/auth/drive.readonly"]
-TOKEN_PATH = "token.json"
 
 # =========================
 # DB CONNECTION
@@ -44,7 +44,7 @@ drive_service = build("drive", "v3", credentials=creds)
 # FILE DOWNLOAD
 # =========================
 
-def download_drive_file(file_id):
+def download_drive_file(file_id) -> bytes:
     request = drive_service.files().get_media(fileId=file_id)
     fh = io.BytesIO()
     downloader = MediaIoBaseDownload(fh, request)
@@ -54,36 +54,48 @@ def download_drive_file(file_id):
         _, done = downloader.next_chunk()
 
     fh.seek(0)
-    return fh
+    return fh.read()
 
 # =========================
-# PARSERS
+# UNSTRUCTURED PARSERS
 # =========================
 
-def parse_pdf(file_stream):
-    text = []
-    with pdfplumber.open(file_stream) as pdf:
-        for page in pdf.pages:
-            page_text = page.extract_text()
-            if page_text:
-                text.append(page_text)
-    return "\n".join(text)
+def elements_to_text(elements):
+    """
+    Convert unstructured elements into a clean, LLM-friendly text
+    with semantic tags preserved.
+    """
+    lines = []
+
+    for el in elements:
+        text = el.text.strip() if el.text else ""
+        if not text:
+            continue
+
+        category = el.category.upper()
+        lines.append(f"[{category}] {text}")
+
+    return "\n".join(lines)
 
 
-def parse_docx(file_stream):
-    document = docx.Document(file_stream)
-    return "\n".join(p.text for p in document.paragraphs if p.text.strip())
+def parse_pdf(file_path):
+    elements = partition_pdf(
+        filename=file_path,
+        strategy="hi_res",                 # IMPORTANT for layout
+        infer_table_structure=True,        # VERY IMPORTANT for syllabus tables
+        extract_images_in_pdf=False,
+    )
+    return elements_to_text(elements)
 
 
-def parse_ppt(file_stream):
-    prs = Presentation(file_stream)
-    text = []
-    for slide in prs.slides:
-        for shape in slide.shapes:
-            if hasattr(shape, "text"):
-                if shape.text.strip():
-                    text.append(shape.text)
-    return "\n".join(text)
+def parse_docx(file_path):
+    elements = partition_docx(filename=file_path)
+    return elements_to_text(elements)
+
+
+def parse_ppt(file_path):
+    elements = partition_pptx(filename=file_path)
+    return elements_to_text(elements)
 
 # =========================
 # MAIN PIPELINE
@@ -99,30 +111,39 @@ documents = cursor.fetchall()
 print(f"Found {len(documents)} unparsed documents")
 
 for doc_id, drive_file_id, file_type in documents:
-    print(f"Parsing document {doc_id} ({file_type})")
+    print(f"\nParsing document {doc_id} ({file_type})")
+
+    tmp_path = None
 
     try:
-        file_stream = download_drive_file(drive_file_id)
+        # Download file bytes
+        file_bytes = download_drive_file(drive_file_id)
 
+        # Create temp file (unstructured requires a file path)
+        with tempfile.NamedTemporaryFile(delete=False) as tmp:
+            tmp.write(file_bytes)
+            tmp_path = tmp.name
+
+        # Parse based on file type
         if file_type == "pdf":
-            extracted_text = parse_pdf(file_stream)
+            extracted_text = parse_pdf(tmp_path)
         elif file_type == "docx":
-            extracted_text = parse_docx(file_stream)
+            extracted_text = parse_docx(tmp_path)
         elif file_type == "ppt":
-            extracted_text = parse_ppt(file_stream)
+            extracted_text = parse_ppt(tmp_path)
         else:
-            print(f"Unsupported file type: {file_type}")
+            print(f" Unsupported file type: {file_type}")
             continue
 
         if not extracted_text.strip():
-            print("No text extracted, skipping")
+            print(" No text extracted, skipping")
             continue
 
+        # Store in DB
         cursor.execute("""
             UPDATE documents
             SET raw_text = %s,
-                parsed = TRUE,
-                created_at = created_at
+                parsed = TRUE
             WHERE id = %s
         """, (
             extracted_text,
@@ -130,11 +151,15 @@ for doc_id, drive_file_id, file_type in documents:
         ))
 
         conn.commit()
-        print("✔ Parsed successfully")
+        print("✔ Parsed and stored successfully")
 
     except Exception as e:
         conn.rollback()
-        print(f"❌ Failed to parse document {doc_id}: {e}")
+        print(f" Failed to parse document {doc_id}: {e}")
+
+    finally:
+        if tmp_path and os.path.exists(tmp_path):
+            os.remove(tmp_path)
 
 # =========================
 # CLEANUP
@@ -142,4 +167,4 @@ for doc_id, drive_file_id, file_type in documents:
 
 cursor.close()
 conn.close()
-print("Document parsing completed ✅")
+print("\nDocument parsing completed")
