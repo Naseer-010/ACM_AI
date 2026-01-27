@@ -95,7 +95,7 @@ def extract_classroom_data(service):
 
         for cw in coursework_items:
             due = parse_due_datetime(cw)
-            print(f"   📝 {cw['title']} | Due: {due}")
+            print(f" {cw['title']} | Due: {due}")
 
     return extracted
 

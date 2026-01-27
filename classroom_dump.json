@@ -1,6 +1,150 @@
 [
   {
     "course": {
+      "id": "793045173530",
+      "name": "2024 - HANDS ON WITH PYTHON - CSE 205",
+      "section": "Sem : IV :  CSE : I",
+      "ownerId": "103449711649406416512",
+      "creationTime": "2026-01-06T06:17:33.497Z",
+      "updateTime": "2026-01-06T06:17:33.497Z",
+      "courseState": "ACTIVE",
+      "alternateLink": "https://classroom.google.com/c/NzkzMDQ1MTczNTMw",
+      "teacherGroupEmail": "2024_HANDS_ON_WITH_PYTHON_CSE_205_Sem_IV_CSE_I_teachers_7850a4bd@srmap.edu.in",
+      "courseGroupEmail": "2024_HANDS_ON_WITH_PYTHON_CSE_205_Sem_IV_CSE_I_acf32bbf@srmap.edu.in",
+      "guardiansEnabled": false,
+      "calendarId": "c_classroom1c40051f@group.calendar.google.com",
+      "gradebookSettings": {
+        "calculationType": "TOTAL_POINTS",
+        "displaySetting": "HIDE_OVERALL_GRADE"
+      }
+    },
+    "announcements": [
+      {
+        "courseId": "793045173530",
+        "id": "824578920014",
+        "text": "Practice questions",
+        "materials": [
+          {
+            "driveFile": {
+              "driveFile": {
+                "id": "1kL-9ylm3yl6O4QIR_jLe1euPDb31g0tu",
+                "title": "Conditional_Statements_Practice.pptx",
+                "alternateLink": "https://drive.google.com/file/d/1kL-9ylm3yl6O4QIR_jLe1euPDb31g0tu/view?usp=drive_web",
+                "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPTBnqoMUXDnxrwNrbzeuvVrisAfVovBzBZOwDBNVVReYiA60u7RlYR_h_1zPkbf-lyTQBU7jKv2KOCauiSGC_72Y1kw6kP7jyIr4TaJhpxsBNAYw=s200"
+              },
+              "shareMode": "VIEW"
+            }
+          }
+        ],
+        "state": "PUBLISHED",
+        "alternateLink": "https://classroom.google.com/c/NzkzMDQ1MTczNTMw/p/ODI0NTc4OTIwMDE0",
+        "creationTime": "2026-01-20T09:41:23.533Z",
+        "updateTime": "2026-01-20T09:41:23.085Z",
+        "creatorUserId": "104734527506976442431"
+      },
+      {
+        "courseId": "793045173530",
+        "id": "840145505789",
+        "text": "\n\nProject Group Details \u2013 Action Required (Hands-on Python)\u00a0\n\nDear Students,\nAs already discussed in class, all groups must submit their details for the final project of the subject Hands-on Python.\nImportant Instructions:\n\n\nOnly the Group Leader is allowed to fill and submit the details.\nThe leader must enter the details of all group members (including himself/herself).\nPlease choose your project area carefully. Once selected, no changes/rectification will be allowed.\nFill all member details correctly and carefully (name, roll number, etc.).\nThis submission is mandatory for final project preparation.\nLink to submit the detail:\u00a0https://forms.gle/pF19SuedNxpB268W8\nKindly submit the details within the given time. Link will be closed tomorrow, 20/01/2026 11:59 PM.\n\nThank you.",
+        "materials": [
+          {
+            "link": {
+              "url": "https://forms.gle/pF19SuedNxpB268W8",
+              "title": "Google Forms: Sign-in",
+              "thumbnailUrl": "https://classroom.google.com/webthumbnail?url=https://forms.gle/pF19SuedNxpB268W8"
+            }
+          }
+        ],
+        "state": "PUBLISHED",
+        "alternateLink": "https://classroom.google.com/c/NzkzMDQ1MTczNTMw/p/ODQwMTQ1NTA1Nzg5",
+        "creationTime": "2026-01-19T06:11:58.989Z",
+        "updateTime": "2026-01-19T06:15:01.704Z",
+        "creatorUserId": "104734527506976442431"
+      },
+      {
+        "courseId": "793045173530",
+        "id": "824338127172",
+        "text": "Dear students,\n\nI have shared a Google link with you. It contains your lab evaluation marks along with CLA marks. You can use this link to verify your marks.\n\nRegards,\n--dryasir",
+        "state": "PUBLISHED",
+        "alternateLink": "https://classroom.google.com/c/NzkzMDQ1MTczNTMw/p/ODI0MzM4MTI3MTcy",
+        "creationTime": "2026-01-12T11:10:13.604Z",
+        "updateTime": "2026-01-12T11:10:15.339Z",
+        "creatorUserId": "104734527506976442431"
+      },
+      {
+        "courseId": "793045173530",
+        "id": "838424536705",
+        "text": "Dear student\u00a0\n\nWelcome to the Python course\n\nThis course focuses on practical Python skills. You will learn core concepts, write programs, and solve real problems. Stay consistent and practice daily.\n\nIf you have any questions or face any difficulty, meet me directly.\naddress: Homi J Bhaba Level 6, Cubicle Number 63.\nYou can visit anytime without hesitation.\n\nI look forward to working with you.\nBest wishes for a productive semester.",
+        "state": "PUBLISHED",
+        "alternateLink": "https://classroom.google.com/c/NzkzMDQ1MTczNTMw/p/ODM4NDI0NTM2NzA1",
+        "creationTime": "2026-01-08T09:40:30.206Z",
+        "updateTime": "2026-01-11T05:14:40.510Z",
+        "creatorUserId": "104734527506976442431"
+      }
+    ],
+    "materials": [
+      {
+        "courseId": "793045173530",
+        "id": "824338165005",
+        "title": "Unit-1 Datatypes and their uses ",
+        "materials": [
+          {
+            "driveFile": {
+              "driveFile": {
+                "id": "1vH4mK_8hZTQRiBbKky3gFhFlffUH8y6Y",
+                "title": "U1L2 Data Types with Examples.pptx",
+                "alternateLink": "https://drive.google.com/file/d/1vH4mK_8hZTQRiBbKky3gFhFlffUH8y6Y/view?usp=drive_web",
+                "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNrNwOaotBQfTfE9whd0pN4iAdVqxJx3VvhUNyuiA9kEaQxV1NQEiQ_FKLGrW8fBKIIRl1cq_dSNs3y9IvvG3ymUsX5MVwvnaywEbRpxIbEjN4kDg=s200"
+              },
+              "shareMode": "VIEW"
+            }
+          }
+        ],
+        "state": "PUBLISHED",
+        "alternateLink": "https://classroom.google.com/c/NzkzMDQ1MTczNTMw/m/ODI0MzM4MTY1MDA1/details",
+        "creationTime": "2026-01-12T11:06:20.139Z",
+        "updateTime": "2026-01-12T11:07:37.874Z",
+        "creatorUserId": "104734527506976442431"
+      },
+      {
+        "courseId": "793045173530",
+        "id": "838807903516",
+        "title": "UNIT-1 Overview of python and data types ",
+        "materials": [
+          {
+            "driveFile": {
+              "driveFile": {
+                "id": "14cC-zJtECumtYD8judm2VD8NPgWHRCkZ",
+                "title": "DAY 0.pptx",
+                "alternateLink": "https://drive.google.com/file/d/14cC-zJtECumtYD8judm2VD8NPgWHRCkZ/view?usp=drive_web",
+                "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNTtIZsMDIyEg8fTkP60wXKGZ9pzTc5eWhDoIkv3rBIlV7zU39rWqFyR31_sYqW8od6qhDP_6L8t1OgTA9M2MpxBDIQtTxOiJvpmMKgmsvlFVzdoA=s200"
+              },
+              "shareMode": "VIEW"
+            }
+          },
+          {
+            "driveFile": {
+              "driveFile": {
+                "id": "1z9F8iE7tpYTCLzoICZhphJ1PFJJUjSNs",
+                "title": "U1-L1 WHY PYTHON.pptx",
+                "alternateLink": "https://drive.google.com/file/d/1z9F8iE7tpYTCLzoICZhphJ1PFJJUjSNs/view?usp=drive_web",
+                "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNEeX5ODvrRfAsfE2Xpi5YN3YY4hZRADa5ge0QIJc5kZJLK4734j-ebqTr-ULvoVrS_vGyi2wyM59OdH9ca5SP4G1gBXZKtWo7d5LYjx_l7XwYNDw=s200"
+              },
+              "shareMode": "VIEW"
+            }
+          }
+        ],
+        "state": "PUBLISHED",
+        "alternateLink": "https://classroom.google.com/c/NzkzMDQ1MTczNTMw/m/ODM4ODA3OTAzNTE2/details",
+        "creationTime": "2026-01-11T05:14:57.076Z",
+        "updateTime": "2026-01-11T05:15:55.016Z",
+        "creatorUserId": "104734527506976442431"
+      }
+    ],
+    "coursework": []
+  },
+  {
+    "course": {
       "id": "793046968773",
       "name": "OE - QUANTUM MECHANICS",
       "section": "OPEN ELECTIVE",
@@ -12,6 +156,7 @@
       "teacherGroupEmail": "OE_QUANTUM_MECHANICS_OPEN_ELECTIVE_teachers_a4cc0a27@srmap.edu.in",
       "courseGroupEmail": "OE_QUANTUM_MECHANICS_OPEN_ELECTIVE_a0f60d2e@srmap.edu.in",
       "guardiansEnabled": false,
+      "calendarId": "c_classroomfcb3633acdc7@group.calendar.google.com",
       "gradebookSettings": {
         "calculationType": "TOTAL_POINTS",
         "displaySetting": "HIDE_OVERALL_GRADE"
@@ -21,11 +166,11 @@
       {
         "courseId": "793046968773",
         "id": "839409033433",
-        "text": "CLA 1 on next Tuesday (January 20, 2026).\nQuestion will be shared in the class. Exam will be based on Note 1 to Note 4.",
+        "text": "CLA 1 on next Wednesday\u00a0(January 21, 2026).\nQuestion will be shared in the class. Exam will be based on Note 1 to Note 4.",
         "state": "PUBLISHED",
         "alternateLink": "https://classroom.google.com/c/NzkzMDQ2OTY4Nzcz/p/ODM5NDA5MDMzNDMz",
         "creationTime": "2026-01-14T06:35:13.057Z",
-        "updateTime": "2026-01-14T06:38:15.621Z",
+        "updateTime": "2026-01-19T15:49:11.039Z",
         "creatorUserId": "106946631709840840750"
       }
     ],
@@ -42,7 +187,7 @@
                 "id": "1lrNe6w70EDUNhxJzY3zsfsR-MAnANHNd",
                 "title": "QMech_Syllabus_MarksDivision.pdf",
                 "alternateLink": "https://drive.google.com/file/d/1lrNe6w70EDUNhxJzY3zsfsR-MAnANHNd/view?usp=drive_web",
-                "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMd96Ka8XQnJSuw_BSjtN9-2LEAM3bJnDdnWg9YYlxEjE1GWFXaOGtNvtvNbAmHJZBe9NPBeCLJcVuirXUpQ9ThrD8uNiKMpOJLAXWRK_RPmmvysQ=s200"
+                "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMyG_MWSBIvgcXQuizpOKCSF0sbi_kmpG4wBCYQeamwfDo8xrRWkObEZQGMpFVzSi1N9tTG96hNhC6tZloQFzqEmF_0kkxdMohHrYD5BLuNTk414g=s200"
               },
               "shareMode": "VIEW"
             }
@@ -53,7 +198,7 @@
                 "id": "1KKP6mNwuBtPAilg9QqIUCsEj_C21OSbZ",
                 "title": "Note 1 - Quantum mechanics in modern information science and technology.pdf",
                 "alternateLink": "https://drive.google.com/file/d/1KKP6mNwuBtPAilg9QqIUCsEj_C21OSbZ/view?usp=drive_web",
-                "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMKx_RoxCe4URjIVoDLHWsRuz5UUd04JMw2_GiizfWYXIM6HJ89T8Y453O-NNJGusLIBk2LWFHymhlVQSkgwio_hUesBkU4XzWBC2fAOQDdGH7J1A=s200"
+                "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOVJkhfbARZC8r5j3MzF5rHgJ84K2Sy4JSnPmwtRDBFoA95Fq5XUkRS5VWknFKqPQYvn_JsBa9vIPfhT5kZgRv-TNxdv4CAo2XE3mF6C21ho0ZITA=s200"
               },
               "shareMode": "VIEW"
             }
@@ -64,7 +209,7 @@
                 "id": "1VKQeqClI-MvEff4VxBnYu-bHitMHbgUH",
                 "title": "Note 2 - The failure of classical theory and the birth of Plancks law.pdf",
                 "alternateLink": "https://drive.google.com/file/d/1VKQeqClI-MvEff4VxBnYu-bHitMHbgUH/view?usp=drive_web",
-                "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBN9s5ELYfzCoYQD4sIOPO99GY967lTyFyiNJpksclsL-jkAV5Q2fGMyuGh25vUEzikm6OW1d-HUYvMQg7ZEsm9BOaH3b6xukSig3rXQM_VTGP9Dbg=s200"
+                "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMY5Ste_v44Chuu6b5OmRmzLQ-fdIFfskZOJz2pizwGTSph9z7rwqnl0jgYPxSQHJd4NiNiBZwd44yxHXxqs6wOXmf_sv3XkssTZ6ooYrz_ACmgGg=s200"
               },
               "shareMode": "VIEW"
             }
@@ -75,7 +220,7 @@
                 "id": "1mVhVRLCdq13YGHdaQMFONMBnq_7tl5xV",
                 "title": "Note 3 - Photoelectric effect.pdf",
                 "alternateLink": "https://drive.google.com/file/d/1mVhVRLCdq13YGHdaQMFONMBnq_7tl5xV/view?usp=drive_web",
-                "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNTqfXO3IOtDbsiiH6_Z5Vf2nXVVuPjIoCVnbpPNRqjoj5YyqjfcZmd9ZAuv6QJhdS4AGiZhFRh0F9Ig7AvdY84h3Wr42Q0DYjXlVJLW5cdoYkLsw=s200"
+                "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNftJmoshf5Ve07Yg5vkLnunRGFpcEPPzRZ0Tro5bAA_SmL0mAmtMjm0WqtXDUdsuM-xb6BBg9ruuEx8i2QDfiZYZ3IbezYQRTq4qjPdiguu6jZyw=s200"
               },
               "shareMode": "VIEW"
             }
@@ -86,7 +231,18 @@
                 "id": "1x9JtTYgC_lmz0BT7HNaauY7I1uODiqar",
                 "title": "Note 4 - Compton effect and Davisson-Germer experiment.pdf",
                 "alternateLink": "https://drive.google.com/file/d/1x9JtTYgC_lmz0BT7HNaauY7I1uODiqar/view?usp=drive_web",
-                "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOYNRd0f9ACElDuLX2ed-XtMxhOekH0fsJGGAo6dGeZiyMrInlJiXTqca16cYUWb0LI3GJ45gsFG1venxC6Q9Fx9yKziB-hQCQDETX9EMlUI4nrMQ=s200"
+                "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPav0b1gWme0VXRAr_9y-3C8IxFMa_rHHXpXCnUkpCGSzuuBBxMbp8tiR2h4K7DLBZT1VVFVgj8ct9MbkNWuwYtQjViugn8qGVLLJaL1XQIwYD1xw=s200"
+              },
+              "shareMode": "VIEW"
+            }
+          },
+          {
+            "driveFile": {
+              "driveFile": {
+                "id": "1tms0zKAjM6VYAoX6QuVtP2GE6_7EtrwR",
+                "title": "Note 5 - DeBroglie hypothesis, Wave pacet.pdf",
+                "alternateLink": "https://drive.google.com/file/d/1tms0zKAjM6VYAoX6QuVtP2GE6_7EtrwR/view?usp=drive_web",
+                "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNsUYeo3UIhfXCeWHTKwmdCr_G5ITY9dDO_DdTKSCstH72De6b6NtoEn9XNd2A5jGERTybjvbv0qM7XtDdjYjMyb5o6I2cpEdb_euduOQ_rJOgMIg=s200"
               },
               "shareMode": "VIEW"
             }
@@ -95,7 +251,7 @@
         "state": "PUBLISHED",
         "alternateLink": "https://classroom.google.com/c/NzkzMDQ2OTY4Nzcz/m/ODI0MjI0MTQwNTA5/details",
         "creationTime": "2026-01-08T05:47:11.802Z",
-        "updateTime": "2026-01-14T06:34:46.365Z",
+        "updateTime": "2026-01-19T11:00:54.426Z",
         "creatorUserId": "106946631709840840750"
       }
     ],
@@ -121,7 +277,54 @@
       }
     },
     "announcements": [],
-    "materials": [],
+    "materials": [
+      {
+        "courseId": "793045269184",
+        "id": "840505044045",
+        "title": "PPT",
+        "materials": [
+          {
+            "driveFile": {
+              "driveFile": {
+                "id": "1Dt0ceQmJ2HxLXAFxRuUlnpw_vGr_FBve",
+                "title": "CSE 208 Syllabus - 2025-26.pdf",
+                "alternateLink": "https://drive.google.com/file/d/1Dt0ceQmJ2HxLXAFxRuUlnpw_vGr_FBve/view?usp=drive_web",
+                "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOVkl9bCgjFw2GueMqm3nzSC1mwUxWmGqBpbRlUtOSRbaFFeDjPmI4OdtVrojVQr0cDosxwAqBpfSP8GLCDYvv1K5eq6PbJl91gWo1bbpgXoukUXQ=s200"
+              },
+              "shareMode": "VIEW"
+            }
+          },
+          {
+            "driveFile": {
+              "driveFile": {
+                "id": "1ledDCSfdNoe9D1BAWh6TZMNiFI5joQaT",
+                "title": "Probability_and_Statistics_PPT.pdf",
+                "alternateLink": "https://drive.google.com/file/d/1ledDCSfdNoe9D1BAWh6TZMNiFI5joQaT/view?usp=drive_web",
+                "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNGxvrdDn3lta5EiREpAEgsTiBKxFb4oE9kBuBBw1oSZZ1zRkfRR2yBufTQySLZ-AmnBiT4HMYZzXNPNCKMjeUcPJ8mTAsapP1WnoSFdTNSOwENyA=s200"
+              },
+              "shareMode": "VIEW"
+            }
+          },
+          {
+            "driveFile": {
+              "driveFile": {
+                "id": "1gxYTIeTNvezEgUVwQItBpF_cYZ2yuX0a",
+                "title": "Probability_and_Statistics_PPT (1).pdf",
+                "alternateLink": "https://drive.google.com/file/d/1gxYTIeTNvezEgUVwQItBpF_cYZ2yuX0a/view?usp=drive_web",
+                "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNbfADO376Dt22ryj-_vXP2reSTvf2GHqPYDcKRKfZNJqx5Bf0ZCdWQU5vp5r_RRf4ED_5lXqqrQET0WKuosmPiEbqsgJRjK7K2cq5K2tWTPVhjAg=s200"
+              },
+              "shareMode": "VIEW"
+            }
+          }
+        ],
+        "state": "PUBLISHED",
+        "alternateLink": "https://classroom.google.com/c/NzkzMDQ1MjY5MTg0/m/ODQwNTA1MDQ0MDQ1/details",
+        "creationTime": "2026-01-21T05:09:23.128Z",
+        "updateTime": "2026-01-21T05:21:23.713Z",
+        "creatorUserId": "102092237156996264794",
+        "topicId": "840505044046"
+      }
+    ],
     "coursework": []
   },
   {
@@ -156,7 +359,7 @@
                 "id": "1prX_kPzZsBhorlFAnnwJRVxLQseuNSEo",
                 "title": "CSE 209 B3 DOM.docx",
                 "alternateLink": "https://drive.google.com/file/d/1prX_kPzZsBhorlFAnnwJRVxLQseuNSEo/view?usp=drive_web",
-                "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMRHpVY8CEN6YUQCFAQ5qnWkr1N9gQLasXYqMklcLvYq_m0hS4bVKU8enyNC2ewIPmniRAV7Yi8fae0EU7ca9AdpwVu9EaPhj-skz-t4MZ2nvEL=s200"
+                "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOuKhnZRmJ5YIzmU2CIY4J-ho0uibxl_BPCCmXP_mqTojrsry9qOUdVIKBq4CXW934jMtDYpvZaK69FFOvwt8w_rZvv1oxog0nRuNHDvxHNzrqwsA=s200"
               },
               "shareMode": "VIEW"
             }
@@ -180,7 +383,7 @@
                 "id": "1cMT2GST7RMHiId5R0kf96IkfYmoNMMy6",
                 "title": "CSE 209 Syllabus.docx",
                 "alternateLink": "https://drive.google.com/file/d/1cMT2GST7RMHiId5R0kf96IkfYmoNMMy6/view?usp=drive_web",
-                "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOK2oMWOdSPqG9eSa_paFqhF0T1nJEjmE5tagIOfb12D1nzC_XpXP4M661GeIg-G7snQoNaa394RAPGT7HRGTmKTegEmOGyOyjnSUcvT0AVQLhY=s200"
+                "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPaKV8bIc0KAjThW4JyUmfeGouOuyn-k8gxUvsy3JCpwGNlrQemx9jZwDW5vHuU0cmGBwARRvo-DI1k9SFo6mjCjzck9IF2Kts09bFEo1pvnwfSMw=s200"
               },
               "shareMode": "VIEW"
             }
@@ -197,6 +400,41 @@
     "coursework": [
       {
         "courseId": "838027661785",
+        "id": "824681227614",
+        "title": "Lab Assignment-1",
+        "materials": [
+          {
+            "driveFile": {
+              "driveFile": {
+                "id": "1MeOquWchq94gmqZG-hAKGDo70NoB8FIg",
+                "title": "Lab-01.docx",
+                "alternateLink": "https://drive.google.com/file/d/1MeOquWchq94gmqZG-hAKGDo70NoB8FIg/view?usp=drive_web",
+                "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOrMi16g4NcivH-G3N58gUlL0P5NXbJMLPkwY5noE7aVoekv6J68h_NByDnRImaSyoazBC8g16hMPpbuZpQgkJyJsi7D5B6V1OquCantqNFef0D=s200"
+              },
+              "shareMode": "VIEW"
+            }
+          }
+        ],
+        "state": "PUBLISHED",
+        "alternateLink": "https://classroom.google.com/c/ODM4MDI3NjYxNzg1/a/ODI0NjgxMjI3NjE0/details",
+        "creationTime": "2026-01-22T07:37:46.279Z",
+        "updateTime": "2026-01-22T07:50:07.404Z",
+        "dueDate": {
+          "year": 2026,
+          "month": 1,
+          "day": 22
+        },
+        "dueTime": {
+          "hours": 10
+        },
+        "maxPoints": 10,
+        "workType": "ASSIGNMENT",
+        "submissionModificationMode": "MODIFIABLE_UNTIL_TURNED_IN",
+        "creatorUserId": "116298763464324182613",
+        "topicId": "824226662557"
+      },
+      {
+        "courseId": "838027661785",
         "id": "838413242466",
         "title": "Lab 1",
         "description": "Install SQL server ,\nAfter installation Write down step by step installation process,\nMake a PDF\u00a0 by taking pictures of what you have written and submit",
@@ -207,7 +445,7 @@
                 "id": "10E8t69KI8YqeRlY7gC4IidMwhUYi0aFl",
                 "title": "MySQL installation steps.docx",
                 "alternateLink": "https://drive.google.com/file/d/10E8t69KI8YqeRlY7gC4IidMwhUYi0aFl/view?usp=drive_web",
-                "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNPpKcCIKuez0a-uCPLxR6M36gaYzGOCEgtVGs-IBtvTA1YEal6L-dsURwSkRoivNwJPm5DkDwMZe5ehv8fUEMUyxUjKKLMkeVvUsuRk4NRdXCRrA=s200"
+                "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOVj8i1gkD6pcxkKKoFs1bw6kn_50qYDcjeouP2ICIX1hlo-1J39JbW_eVjSALAaivnAosRqtPudf0JXFnLP9oo30C6_7hXe9JlRawRlVre90A3=s200"
               },
               "shareMode": "VIEW"
             }
@@ -218,7 +456,7 @@
                 "id": "1TGO91gvUW4rMdde7ZqMbDCFeA3a1VX-a",
                 "title": "MySQL for For macOS.docx",
                 "alternateLink": "https://drive.google.com/file/d/1TGO91gvUW4rMdde7ZqMbDCFeA3a1VX-a/view?usp=drive_web",
-                "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPcpWXlUvsEEi39NYbKzOEF2XVymI2brtYe65HCP2AuN_t6PlAxexAdiQDHh3eb0v8uK-q1Pm5ffAJNVQxtlWi-YDypmEWKnT9uYuGE38IuZptqXw=s200"
+                "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBM_yFLuiD3V7inoT0NweDaNQ_TiCR1rI46grL6rnJ_kCTe93GAVWGn_BrrhdpZUHqRBDNGrnZWuYWq5GRfi4ekzW_k_DB071rLAMJZluTLl0NPq=s200"
               },
               "shareMode": "VIEW"
             }
@@ -357,7 +595,7 @@
                 "id": "142hC78o2NmJfVpPhWuf9jxojTfGLCjWn",
                 "title": "Teleportation.pptx",
                 "alternateLink": "https://drive.google.com/file/d/142hC78o2NmJfVpPhWuf9jxojTfGLCjWn/view?usp=drive_web",
-                "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPJsXemGCKGZypfk_OXiRmlXroBpM1LCygNZkDfpy95xE_0uTXIJ-wZRP71GVodzKG5rL2GGdnTTY0kM35R0w4abK0jcyzWvSKXAg1EyLVhx2HvQg=s200"
+                "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBO6kTdR1BlBYRTv32KsBQ-QGIRXOUgDEKwPBV9imfxVWvqGyUgi30T5ZGdk4ZscYcOQyOsnXxymy1H3iKRWcs--pKm6oloK8i-rKsWIQZ08YcLp1w=s200"
               },
               "shareMode": "VIEW"
             }
@@ -440,7 +678,7 @@
                 "id": "1Lp9COUBo5gPmYl3rc9e4BxJgm7gk4gYg",
                 "title": "Unit 4.pptx",
                 "alternateLink": "https://drive.google.com/file/d/1Lp9COUBo5gPmYl3rc9e4BxJgm7gk4gYg/view?usp=drive_web",
-                "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMJeoqFTPnBIVcpqPXwSrSAWdMiIo382fWBv9OIbM9E-bit0UEuHThF1lV7ZUXGsQJX12WD_uKu_lR8U_w___TMvAF0Z7eKRRSTiic5IEqrRdrE2A=s200"
+                "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMUMFboAijzi3UFUSL5ROuc4mPdPinte-0b7y1-FYy51Wbbx_kK_vuhPzRwnwaDEQIc7q0ZByPUFdFNuZKXo_x3ohoGDiaqaN74VO251L1FioorPg=s200"
               },
               "shareMode": "VIEW"
             }
@@ -463,7 +701,7 @@
                 "id": "190uFCGy6QYZbGr7_iJyu6d95L_CqXfNS",
                 "title": "Unit 4.pptx",
                 "alternateLink": "https://drive.google.com/file/d/190uFCGy6QYZbGr7_iJyu6d95L_CqXfNS/view?usp=drive_web",
-                "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMmaiRvdD9TxXj8CVL-DGHi7agxNSJ58EImmZhHPDWpgy_IaSdDszHg3VwOgi6jroHTkeUMFt1fgT6-YwjVkecevnrYt_LWotKMswbpvjNHwikyww=s200"
+                "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBORlEQQlCQhMYkh7cL0kTJVhf7KjDK2oRvXVEPCPH8spYGQONW297G4fwpr0XiTNXEAsn-2Y-TirMJI72CkRA9FEGHqU-k02aKE-Z67CcbK3S_OGw=s200"
               },
               "shareMode": "VIEW"
             }
@@ -488,7 +726,7 @@
                 "id": "1T0VH4XXT9Y3Y5H2Y54REUdlMZnSlszIz",
                 "title": "Unit 1 and 2.pptx",
                 "alternateLink": "https://drive.google.com/file/d/1T0VH4XXT9Y3Y5H2Y54REUdlMZnSlszIz/view?usp=drive_web",
-                "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMOk4sLq3FlHosMps6c9j32q5vyHheYTd3M0RufEfZBUDeJVpmeSwcbV4Pn-Awz3Epx1pUsinRVrzUJwnDP1zXzyE8fsVuscfpuT6Nu3ITJ8Tst8Q=s200"
+                "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNwqWpGSO_XImq5pAmyNsVhvG0wj14R5BnAerk_h2kR3hxI8qUNkjL3KVVxfx7i5mZd1uuIL22-SUdK7TophhCSZUXeJLCTrEj68tw8825WLOfieg=s200"
               },
               "shareMode": "VIEW"
             }
@@ -499,7 +737,7 @@
                 "id": "1E1Ycpm4SU5bL3L1zDNOvRNVRWybSPw_s",
                 "title": "Unit 3.pptx",
                 "alternateLink": "https://drive.google.com/file/d/1E1Ycpm4SU5bL3L1zDNOvRNVRWybSPw_s/view?usp=drive_web",
-                "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBO1nIblRxmrddzg5s8dFbOp1jigzaG8Hlfefs-xjZUAVBijt_A87odsrKbiRNKusb-6QRCXwhW2ADkwwB64v3kWjgH28_As6zY6Fgkby40BdXFHow=s200"
+                "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBO4patvLEqDVuyAaDasPNjgT0exv_PrGNIqHQsaiyDAnoyF816Ai4s8jbIFYYRpWUr1fl0_Uf4Cgfwgb2up0fGEL3RqlTIt40c-xIZ3JmxUys8d-A=s200"
               },
               "shareMode": "VIEW"
             }
@@ -510,7 +748,7 @@
                 "id": "1Wi0oVVkfEZ-Dr78jj19NHj-d3kK0s5Lj",
                 "title": "Unit 4.pptx",
                 "alternateLink": "https://drive.google.com/file/d/1Wi0oVVkfEZ-Dr78jj19NHj-d3kK0s5Lj/view?usp=drive_web",
-                "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBN3kPk0NHWgConnBnEFixSlMsNWH2O1yE0P9QZTduvJ1Ai1q9ay8W2bz92lfcds172OfstLE-Kq8Fe1vNBUBN2kB2qf2zZzSuaDzYzv53pVDW0ebw=s200"
+                "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNzwG9iJXKoRUPTxDAnHzEK7vqwN97wWAVb7bXkTkQyjO0Fo2aW2ouzYdTaQANvLfFXxbkch5qB60vU-lC4vVUFpcNmOj7hMdoAg5b8wSy6PieqhQ=s200"
               },
               "shareMode": "VIEW"
             }
@@ -521,7 +759,7 @@
                 "id": "1wvky3G99DlldcNupdmIWnT73y8XHij9R",
                 "title": "Unit 5.pptx",
                 "alternateLink": "https://drive.google.com/file/d/1wvky3G99DlldcNupdmIWnT73y8XHij9R/view?usp=drive_web",
-                "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOBaGmRLxlQOesEBWp-niPCm-HVMHFJzeJT_ssD5zbhPW35s0JMzD8QmOZl7fiimB2fWWaJTYM2wJlApBXjMBjSHCl22Fqi-p5TeJqa1Aag2yDeMw=s200"
+                "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBN0yy-N087zVTmvhHccsGhxjLuhgjgcRHjKlpfU-_irpfp5_alK_SciAZzUlgNBLT-mGgHrTAXDc1qQ-ZApuu_Dtl584sMF8ol-RVYgnwFr1HMqeQ=s200"
               },
               "shareMode": "VIEW"
             }
@@ -544,7 +782,7 @@
                 "id": "1tusQaYq3FT0AaXWCiUzjn1wwTJWjeGmi",
                 "title": "Unit 3.pptx",
                 "alternateLink": "https://drive.google.com/file/d/1tusQaYq3FT0AaXWCiUzjn1wwTJWjeGmi/view?usp=drive_web",
-                "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPy9XqXiggs1VqoPPiHyVAhmoBBLmtbIQ9o-6yz5sJIekkXp9CO4z8PluzSgUhRSsZVtzCKLIVp-w7va8XX0D1Gzp2g5aMT-uzlWo_4W7JyiF10RA=s200"
+                "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNxBlUyce9qgVTIUEqW-obSDdJHitCAgJXLcRG-FaFsjzZFA2eoChxlWRRT-1tqqoSRuT_evjDNcYD2-puiujOdzIRCipOVejZeDZWpU0z-JtrLFw=s200"
               },
               "shareMode": "VIEW"
             }
@@ -568,7 +806,7 @@
                 "id": "1tcVzpZ3K6tYeJOAUxhRKikYUhJ7vvvm0",
                 "title": "QC_PracticeSet.pdf",
                 "alternateLink": "https://drive.google.com/file/d/1tcVzpZ3K6tYeJOAUxhRKikYUhJ7vvvm0/view?usp=drive_web",
-                "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBM1Iwm_6QaVUe0vSlNXxU-i_HmyDO9ILYQPRz_fLauyv-OH-v7F64I7sJteowmti0HmOYHvgbqXGu19vt_69vdDOEXxOXU7gpZ428UYl7SsCawe_g=s200"
+                "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBN_At22fjyx_bVj2VwIlMVoNXBtQ0EGeq12YJ0hL7ov7FoCOsgs1dJd_2Xi7RzEVw7SV-lnbnVW7Eg7Txq0TpPt2XySa4Um0UWUv37j3Su2AxhYaQ=s200"
               },
               "shareMode": "VIEW"
             }
@@ -592,7 +830,7 @@
                 "id": "1ETeUCub7ubqxbSc22nuR1WvMYrM8uYIa",
                 "title": "Unit 1 and 2.pptx",
                 "alternateLink": "https://drive.google.com/file/d/1ETeUCub7ubqxbSc22nuR1WvMYrM8uYIa/view?usp=drive_web",
-                "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOdEhmBF4iJig89HeWDzT6HRfBWAq_pP_GugAYDQx1di8a7Z8ILOAtaG_G_Sh-DAxc-knUNaNZFmRUByJzAls9afXXA4UR-NhTaRJC6YndVcZv9Gg=s200"
+                "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNhohcDwYczocxxTvtXcOdg41Rv6xlE9CFQtlvU3MhrGbDE96te7fK1e3WJee_K8Liw73v4pClP_rETEbRIPHsM2F1AEeVg2Z3qGJTBHLBQ7Nbyrw=s200"
               },
               "shareMode": "VIEW"
             }
@@ -618,7 +856,7 @@
                 "id": "1P-IVcW0okkSerwS5I3d7YXP19Lk2TXxX",
                 "title": "Assignment 2.pdf",
                 "alternateLink": "https://drive.google.com/file/d/1P-IVcW0okkSerwS5I3d7YXP19Lk2TXxX/view?usp=drive_web",
-                "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMFPabhLO-aos0tuefCwI4sztZfNfuuNx2mrqfuz7oAmqnAZjJ1S0afjFbXxQbJTHTyBb537oBS-9gIq3mEK2Veki0v83INUTDX-juZAVJiQFg1=s200"
+                "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMz9cLh0Gd5A-0A5ivXilJhXNQ1SSUkb8l9bX-yIoGGQBv0UWdGv8F2DEEJ4zh1c6K37NomxSWoXLZ1Nclk4sVFxmHCVE7UrllnG3CybjzhwzxYqA=s200"
               },
               "shareMode": "VIEW"
             }
@@ -645,7 +883,7 @@
                 "id": "15swjhDJqchl1hFMbUyf7iDqkFZtOJKi2",
                 "title": "QCA_PracticeSet.pdf",
                 "alternateLink": "https://drive.google.com/file/d/15swjhDJqchl1hFMbUyf7iDqkFZtOJKi2/view?usp=drive_web",
-                "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNCPcE89NdM97AThnc_bsCH0XKCiRntkAwHn7B0l7i9l_hqsvyFo3J1QZUREMTcC0yVge8YZ2DbLhjYvy53EG_UFxGFa00zJt3zfGKoR8o5MSrT=s200"
+                "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBN4S-YV11CZG_C-ZwJvrCOkclp3OUlkQPIT5XYwCtET-l0CdoLyT-oSmD4oDYYZ1KB8UIS7vCbFH3Pwq0e4VjeGw1JY5KK190oVQ4XX6_8UHECi7w=s200"
               },
               "shareMode": "VIEW"
             }
@@ -672,7 +910,7 @@
                 "id": "1RfPR3mazPrNHG9n4RJVxBmsw8Rz2vyTz",
                 "title": "Assignment 1.pdf",
                 "alternateLink": "https://drive.google.com/file/d/1RfPR3mazPrNHG9n4RJVxBmsw8Rz2vyTz/view?usp=drive_web",
-                "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNxN7HZxmt2O6-f5sV_7bwXvXl4rQkqw1jhL2d8llUNltmlr-61Y9sCQM-T_Z5zziJF3ExJY-FBrzV4K5H9gB0nWAYMRWPBmtB9YLGc8cjXVGo8=s200"
+                "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMYI-7VbpIfmwwKNuB_dkrQiAGQ3ATBfTfXHetMPo-2_gZo7NIeKFSYHtVQX4ljWqKr5IF2fvZWBVetR2FC0qE29ZTNlSIOwbBDtCt-btNQ4iRbdg=s200"
               },
               "shareMode": "VIEW"
             }
