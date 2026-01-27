@@ -125,7 +125,7 @@ def infer_units_topics(text: str) -> dict:
     with torch.no_grad():
         outputs = model.generate(
             **inputs,
-            max_new_tokens=1000,
+            max_new_tokens=1400,
             do_sample=False  
         )
 
