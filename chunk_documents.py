@@ -132,7 +132,7 @@ for document_id, course_id, role, raw_text in documents:
             """, (
                 chunk_id, document_id, course_id,
                 chunk_index, chunk_text,
-                current_tokens, datetime.utcnow()
+                current_tokens, datetime.now()
             ))
 
             # MAP TO TOPICS (ONLY STUDY MATERIAL)
@@ -163,6 +163,9 @@ for document_id, course_id, role, raw_text in documents:
                 ):
                     selected.append(ranked[1])
 
+                print("Ranked similarities:", ranked)
+                print("Selected topics for chunk", chunk_index, ":", selected)
+                
                 for rank, (idx, score) in enumerate(selected[:MAX_TOPICS_PER_CHUNK], start=1):
                     topic_id = topics_by_course[course_id][idx]["topic_id"]
                     cur.execute("""
@@ -177,7 +180,7 @@ for document_id, course_id, role, raw_text in documents:
                         topic_id,
                         float(score),
                         rank,
-                        datetime.utcnow()
+                        datetime.now()
                     ))
 
             chunk_index += 1
