@@ -4,6 +4,8 @@ from datetime import datetime
 import tiktoken
 import numpy as np
 from sentence_transformers import SentenceTransformer
+import os 
+import cohere 
 from sklearn.metrics.pairwise import cosine_similarity
 
 # =========================
@@ -21,14 +23,16 @@ DB_CONFIG = {
 TARGET_TOKENS = 350
 MAX_TOKENS = 500
 
-TOPIC_TOP_1_THRESHOLD = 0.78
-TOPIC_TOP_2_THRESHOLD = 0.72
+TOPIC_TOP_1_THRESHOLD = 0.58
+TOPIC_TOP_2_THRESHOLD = 0.46
 DELTA_THRESHOLD = 0.05
 MAX_TOPICS_PER_CHUNK = 2
 
 # =========================
 # TOKENIZER
 # =========================
+
+client = cohere.ClientV2(api_key= os.getenv("COHERE_API_KEY"))
 
 encoder = tiktoken.get_encoding("cl100k_base")
 
