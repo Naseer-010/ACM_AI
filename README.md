@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">🧠 StudyBuddy — Adaptive Cognitive Memory AI</h1>
+  <h1 align="center">🧠 ACM AI — Adaptive Cognitive Memory AI</h1>
   <p align="center">
     A syllabus-aware AI that learns <em>what</em> you need to study and <em>how</em> you learn — powered by Google Classroom, LLM inference, and semantic understanding.
   </p>
